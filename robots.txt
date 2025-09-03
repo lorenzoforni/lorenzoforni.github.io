@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lorenzoforni.github.io/al-folio/sitemap.xml
+Sitemap: https://lorenzoforni.github.io/sitemap.xml
