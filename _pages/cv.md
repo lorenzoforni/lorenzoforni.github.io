@@ -1,11 +1,21 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+Below you can view my CV and download a PDF copy.
+
+<p>
+  <a class="btn btn-primary" href="{{ '/assets/pdf/lorenzo-forni-cv.pdf' | relative_url }}" download>
+    Download CV (PDF)
+  </a>
+</p>
+
+<object data="{{ '/assets/pdf/lorenzo-forni-cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="900">
+  <p>Your browser can’t display PDFs.
+    <a href="{{ '/assets/pdf/lorenzo-forni-cv.pdf' | relative_url }}">Click here to download the file.</a>
+  </p>
+</object>
