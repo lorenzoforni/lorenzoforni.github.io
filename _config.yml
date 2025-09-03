@@ -3,13 +3,18 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Lorenzo
+middle_name:
+last_name: Forni
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please use email for the fastest response. I’m also reachable on LinkedIn for brief inquiries.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+I am Professor of Economic Policy at the University of Padua, Head of the Prometeia Think Tank, and since 2025 Vice President of the Senior Board of the Conselho das Finanças Públicas (CFP), Portugal’s independent fiscal council. Previously, I worked at the International Monetary Fund in Washington, D.C. (2010–2016) and at the Bank of Italy in Rome. I have collaborated with the OECD and the World Bank and served on the advisory committee of Confindustria, the Italian employers’ association.
+
+I hold a Master’s degree in Political Economy (1999) and a Ph.D. in Economics (2001) from Boston University and was a visiting scholar at Harvard University and the National Bureau of Economic Research (2005–06).
+
+I am the author of The Magic Money Tree and Other Economic Tales (2021), selected by the Financial Times among the year’s best economics books, and Preventing the Greenlash: How to Overcome Opposition to Green Policies (2024). For a complete list of publications and working papers, please see my CV
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
