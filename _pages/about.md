@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg # make sure this file is in assets/img/
-  image_circular: true
+  image_circular: false
   more_info: >
     <p><a href=mailto:lorenzo.forni@unipd.it>lorenzo.forni@unipd.it</a></p>
     <p><a href=https://www.linkedin.com/in/lorenzo-forni-5a25b4105/ target="_blank" rel="noopener">LinkedIn</a></p>
