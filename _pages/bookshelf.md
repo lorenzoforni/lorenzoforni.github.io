@@ -6,7 +6,7 @@ a.nav-link[href$="/_pages/dropdown/"]:not(.active) {
   background: transparent !important;
 }
 </style>
-
+---
 
 layout: page
 permalink: /_pages/dropdown/
@@ -125,4 +125,4 @@ title: Bookshelf
   </div>
 
 </div>
----
+
