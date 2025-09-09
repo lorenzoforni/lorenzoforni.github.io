@@ -231,6 +231,11 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
+  - scope:
       path: "assets"
     values:
       sitemap: false
