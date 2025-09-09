@@ -137,16 +137,27 @@ newsletter:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
 collections:
   books:
     output: true
-    permalink: /books/:name  news:
-  defaults:
-      layout: post
+    permalink: /books/:name
+  news:
     output: true
+    permalink: /news/:name
   projects:
     output: true
+    permalink: /projects/:name
+
+# -----------------------------------------------------------------------------
+# Defaults (top-level, NOT inside `collections`)
+# -----------------------------------------------------------------------------
+# Example: make items in the `news` collection use the `post` layout by default
+defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
