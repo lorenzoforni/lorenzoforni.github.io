@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /_pages/dropdown/
+permalink: /books/
 nav: true
 nav_order: 4
 title: Bookshelf
