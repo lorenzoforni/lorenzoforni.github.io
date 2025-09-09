@@ -1,7 +1,7 @@
 ---
 page_id: bookshelf
 layout: page
-permalink: /books/
+permalink: /_pages/dropdown/
 title: Bookshelf
 description:
 subtitle:
