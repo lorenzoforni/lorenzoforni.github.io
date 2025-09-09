@@ -1,3 +1,13 @@
+<style>
+/* De-activate the placeholder link’s “always active” styling if present */
+a.nav-link[href$="/_pages/dropdown/"]:not(.active) {
+  color: inherit !important;
+  background: transparent !important;
+}
+</style>
+
+
+
 ---
 layout: page
 permalink: /_pages/dropdown/
