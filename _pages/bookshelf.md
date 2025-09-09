@@ -1,7 +1,7 @@
 ---
 page_id: bookshelf
-layout: page
-permalink: /bookshelf/
+layout: books
+permalink: /books/
 title: Bookshelf
 description:
 subtitle:
