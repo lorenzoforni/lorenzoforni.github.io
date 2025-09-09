@@ -1,12 +1,9 @@
 ---
-page_id: bookshelf
 layout: page
 permalink: /_pages/dropdown/
-title: Bookshelf
-description:
-subtitle:
 nav: true
 nav_order: 4
+title: Bookshelf
 ---
 
 <!-- Minimal styles for section headers (same as research.md) -->
