@@ -7,13 +7,13 @@ a.nav-link[href$="/_pages/dropdown/"]:not(.active) {
 }
 </style>
 ---
-
+---
 layout: page
 permalink: /_pages/dropdown/
 nav: true
 nav_order: 4
 title: Bookshelf
-
+---
 
 <!-- Minimal styles for section headers (same as research.md) -->
 <style>
