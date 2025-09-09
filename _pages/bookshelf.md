@@ -1,6 +1,6 @@
 ---
 page_id: bookshelf
-layout: books
+layout: page
 permalink: /books/
 title: Bookshelf
 description:
