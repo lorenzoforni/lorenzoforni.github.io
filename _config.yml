@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lorenzo Forni # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Lorenzo
 middle_name:
 last_name: Forni
@@ -137,27 +137,16 @@ newsletter:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+
 collections:
   books:
     output: true
-    permalink: /books/:name
   news:
+    defaults:
+      layout: post
     output: true
-    permalink: /news/:name
   projects:
     output: true
-    permalink: /projects/:name
-
-# -----------------------------------------------------------------------------
-# Defaults (top-level, NOT inside `collections`)
-# -----------------------------------------------------------------------------
-# Example: make items in the `news` collection use the `post` layout by default
-defaults:
-  - scope:
-      path: ""
-      type: news
-    values:
-      layout: post
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -178,8 +167,13 @@ kramdown:
 
 # Includes & excludes
 include: ["_pages", "_scripts"]
-
 exclude:
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/people.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -199,12 +193,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/profiles.md
-  - _pages/blog.md
-  - _pages/projects.md
-  - _pages/repositories.md
-  - _pages/publications.md
-
 keep_files:
   - CNAME
   - .nojekyll
@@ -231,11 +219,6 @@ plugins:
 
 # Sitemap settings
 defaults:
-  - scope:
-      path: ""
-      type: news
-    values:
-      layout: post
   - scope:
       path: "assets"
     values:
