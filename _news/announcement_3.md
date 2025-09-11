@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join us for the presentation of Prometeia’s Forecasting Report on the Italian and International Economy, on **September 26 at 11 AM**.
+Join us for the presentation of Prometeia’s Quarterly Economic Outlook on the Italian and International Economy, on **September 26 at 11 AM**.
