@@ -42,14 +42,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-starting-a-new-position-as-vice-president-of-the-board-at-portuguese-public-finance-council",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-m-starting-a-new-position-as-vice-president-of-the-board-at-portuguese-public-finance-council",
           title: 'I’m starting a new position as Vice-president of the Board at Portuguese Public...',
           description: "",
           section: "News",},{id: "news-new-working-paper-out-are-incentives-for-energy-retrofitting-regressive-evidence-from-the-italian-superbonus-and-ecobonus-with-e-giarda-and-s-sommer-read-it-on-ssrn",
           title: 'New working paper out: Are Incentives for Energy Retrofitting Regressive? Evidence from the...',
-          description: "",
-          section: "News",},{id: "news-join-us-for-the-presentation-of-prometeia-s-forecasting-report-on-the-italian-and-international-economy-on-september-26-at-11-am",
-          title: 'Join us for the presentation of Prometeia’s Forecasting Report on the Italian and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
