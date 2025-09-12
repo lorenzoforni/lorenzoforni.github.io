@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 
+# Lorenzo <strong>Forni</strong>
+
 profile:
   align: right
   image: prof_pic.jpg # make sure this file is in assets/img/
