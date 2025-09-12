@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AACA,cACE","sourcesContent":["/* Custom styles below */\n.author__name {\n font-weight: bold;\n}\n"],"file":"custom.css"}
