@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-starting-a-new-position-as-vice-president-of-the-board-at-portuguese-public-finance-council",
+        },{id: "news-i-m-starting-a-new-position-as-vice-president-of-the-board-at-portuguese-public-finance-council",
           title: 'I’m starting a new position as Vice-president of the Board at Portuguese Public...',
           description: "",
           section: "News",},{id: "news-new-working-paper-out-are-incentives-for-energy-retrofitting-regressive-evidence-from-the-italian-superbonus-and-ecobonus-with-e-giarda-and-s-sommer-read-it-on-ssrn",
