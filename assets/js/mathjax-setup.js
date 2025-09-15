@@ -1,10 +1,9 @@
 window.MathJax = {
   tex: {
     tags: "ams",
-    inlineMath: [
-      ["$", "$"],
-      ["\\(", "\\)"],
-    ],
+    // Only allow \(...\) and \[...\] for math
+    inlineMath: [["\\(", "\\)"]],
+    displayMath: [["\\[", "\\]"], ["$$", "$$"]],
   },
   options: {
     renderActions: {
