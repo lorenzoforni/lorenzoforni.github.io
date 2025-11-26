@@ -43,7 +43,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-working-paper-out-are-incentives-for-energy-retrofitting-regressive-evidence-from-the-italian-superbonus-and-ecobonus-with-e-giarda-and-s-sommer-read-it-on-ssrn",
           title: 'New working paper out: Are Incentives for Energy Retrofitting Regressive? Evidence from the...',
           description: "",
-          section: "News",},{id: "news-join-us-for-the-presentation-of-prometeia-s-quarterly-economic-outlook-on-the-italian-and-global-economy-on-december-17-at-11-am",
+          section: "News",},{id: "news-join-us-for-the-presentation-of-prometeia-s-quarterly-economic-outlook-on-the-italian-and-global-economy-on-december-17-2025-at-11-am-either-online-or-in-person-piazza-trento-e-trieste-3-bologna-registration-necessary",
           title: 'Join us for the presentation of Prometeia’s Quarterly Economic Outlook on the Italian...',
           description: "",
           section: "News",},{id: "projects-project-1",
