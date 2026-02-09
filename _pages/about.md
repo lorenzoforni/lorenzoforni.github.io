@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: DSC06074.png # make sure this file is in assets/img/
+  image: DSC06074_v1.png # make sure this file is in assets/img/
   image_circular: false
   more_info: >
     <p><a href=mailto:lorenzo.forni@unipd.it>lorenzo.forni@unipd.it</a></p>
