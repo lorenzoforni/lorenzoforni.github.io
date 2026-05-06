@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-past-news",
+          title: "past news",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
         },{id: "news-i-m-starting-a-new-position-as-vice-president-of-the-board-at-portuguese-public-finance-council",
           title: 'I’m starting a new position as Vice-president of the Board at Portuguese Public...',
           description: "",
