@@ -59,7 +59,7 @@ ninja.data = [{
           section: "News",},{id: "news-will-present-prometeia-s-quarterly-economic-outlook-rapporto-di-previsione-on-the-italian-and-global-economy-on-july-2-2026-an-update-on-growth-inflation-and-geopolitical-risks-against-a-backdrop-of-elevated-uncertainty",
           title: 'Will present Prometeia’s Quarterly Economic Outlook (Rapporto di Previsione) on the Italian and...',
           description: "",
-          section: "News",},{id: "news-new-working-paper-draft-completed-when-stablecoins-meet-treasury-scarcity-global-spillovers-from-dollar-settlement-the-paper-develops-a-two-country-dsge-model-of-how-usd-stablecoin-settlement-backed-by-a-scarce-supply-of-short-term-us-treasuries-opens-a-new-channel-of-international-macroeconomic-spillovers",
+          section: "News",},{id: "news-new-working-paper-draft-completed-when-stablecoins-meet-treasury-scarcity-global-spillovers-from-dollar-settlement-the-paper-develops-a-two-country-dsge-model-of-how-usd-stablecoin-settlement-backed-by-a-scarce-supply-of-short-term-us-treasuries-opens-a-new-channel-of-international-macroeconomic-spillovers-read-the-draft",
           title: 'New working paper draft completed: When Stablecoins Meet Treasury Scarcity — Global Spillovers...',
           description: "",
           section: "News",},{
