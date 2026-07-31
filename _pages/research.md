@@ -42,6 +42,12 @@ nav_order: 1
 
   <div class="paper journal">
     <div style="padding-left:30px; line-height:16pt;">
+      <span><a href="https://www.sciencedirect.com/science/article/pii/S0140988326004032">“Optimal climate and monetary–fiscal policies in a climate-DSGE framework”</a>, with M. Kiarsi, <i>Energy Economics</i>, 2026.</span>
+    </div>
+  </div>
+
+  <div class="paper journal">
+    <div style="padding-left:30px; line-height:16pt;">
       <span><a href="https://www.sciencedirect.com/science/article/pii/S1051137725000166">“The ‘Green buildings’ directive: A quantification of its costs and benefits in two Italian regions”</a>, with F. Fortuna, E. Giarda, F. Giovanardi, D. Panarello, <i>Journal of Housing Economics</i>, 2025.</span>
     </div>
   </div>

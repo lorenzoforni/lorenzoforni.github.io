@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true
-  limit: 3
+  limit: 4
 ---
 
 Welcome to my personal website!
